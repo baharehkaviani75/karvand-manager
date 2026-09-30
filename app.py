@@ -1,6 +1,7 @@
 import json
 import os
 
+APP_TITLE = "Karvand Manager"
 
 DATA_DIR = "data"
 DATA_FILE = os.path.join(DATA_DIR, "karvands.json")
