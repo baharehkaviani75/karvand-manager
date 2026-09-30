@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "personal_info": {
+            "fullname": "علی احمدی",
+            "email": "@gmail",
+            "city": "تهران"
+        },
+        "education": "6",
+        "skills": [
+            "6"
+        ]
+    }
+]
