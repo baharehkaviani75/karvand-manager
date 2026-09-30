@@ -1,7 +1,9 @@
 import json
 import os
 
-APP_TITLE = "Karvand JSON Manager"
+
+APP_TITLE = "Karvand JSON Manager - Student Panel"
+
 
 DATA_DIR = "data"
 DATA_FILE = os.path.join(DATA_DIR, "karvands.json")
